@@ -31,8 +31,9 @@
 ---
 
 ### 🌟 Top Projects:
-- [Basic Login Page]((https://krishankanhaiya09.github.io/Basic-login-page))  
+- [Basic Login Page](https://krishankanhaiya09.github.io/Basic-login-page)  
   🛠 *HTML, CSS, JavaScript* — Simple responsive login form with basic validation.
+
 ### 💬 Let's Connect:
 <p align="center">
   <a href="https://www.linkedin.com/in/krishan-kanhaiya-97198233b" target="_blank">
