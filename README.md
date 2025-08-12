@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Krishan Kanhaiya</h1>
+<h3 align="center">A passionate Computer Science student & aspiring Full Stack Developer 🚀</h3>
 
-<!--
-**krishankanhaiya09/krishankanhaiya09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krishankanhaiya09&label=Profile%20views&color=0e75b6&style=flat" alt="krishankanhaiya09" /> 
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me:
+- 🎓 B.Tech CSE Student @ Marwadi University (2028 batch)  
+- 🌱 Currently learning **Full Stack Development** (HTML, CSS, JS, React, Node.js)  
+- 📚 Also exploring **Java** & **Data Structures**  
+⚡ Fun fact: I love turning ideas into reality through code and exploring the latest tech trends 🚀
+
+---
+
+### 🚀 Languages & Tools:
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,mysql,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishankanhaiya09&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishankanhaiya09&theme=tokyonight" alt="streak" />
+</p>
+
+---
+
+### 🌟 Top Projects:
+- [Basic Login Page](https://github.com/krishankanhaiya09/Basic-login-page)  
+  🛠 *HTML, CSS, JavaScript* — Simple responsive login form with basic validation.
+### 💬 Let's Connect:
+<p align="center">
+  <a href="https://www.linkedin.com/in/krishan-kanhaiya-97198233b" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin" />
+  </a>
+  <a href="mailto:kanhaiya0572@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail" />
+  </a>
+</p>
